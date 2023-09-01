@@ -6,8 +6,10 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karhong96/) or [Email](mailto:karhongsam@gmail.com)
 - ⚡ Check my portfolio: [karhong-sam.github.io](https://karhong-sam.github.io/)
 
+<!--
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=karhong-sam&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="Kar Hong's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karhong-sam&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
+-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karhong-sam)](https://github.com/anuraghazra/github-readme-stats) -->
 
