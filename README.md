@@ -1,7 +1,7 @@
 ### Hi there! I am Sam 👋
 ### Welcome to my Github Profile
 
-- 🔭 I’m currently working as Data Analysts at IFSC Pte Ltd
+- 🔭 I’m currently working as Data Analysts
 - 🌱 I’m currently learning PHP Laravel
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karhong96/) or [Email](mailto:karhongsam@gmail.com)
 - ⚡ Check my portfolio: [karhong-sam.github.io](https://karhong-sam.github.io/)
